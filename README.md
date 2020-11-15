@@ -1,1 +1,2 @@
-# GPN_CUP_clust
+# GPN Intelligence CUP 2020
+
